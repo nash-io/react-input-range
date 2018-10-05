@@ -17,15 +17,15 @@
 }
 
 .input-range__label--sublabel {
-  height: 1rem,
+  height: 1rem;
 }
 
 .input-range__label--min {
-  left: 0;
+  left: $input-range-label-inner-padding;
 }
 
 .input-range__label--max {
-  right: 0;
+  right: $input-range-label-inner-padding;
 }
 
 .input-range__label--value {

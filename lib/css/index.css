@@ -29,7 +29,7 @@
 
 .input-range__label {
   color: #082865;
-  font-family: "Helvetica Neue", san-serif;
+  font-family: "Asap", san-serif;
   font-size: 12px;
   font-weight: 500;
   transform: translateZ(0);
@@ -47,10 +47,10 @@
   height: 1rem; }
 
 .input-range__label--min {
-  left: 0; }
+  left: 5px; }
 
 .input-range__label--max {
-  right: 0; }
+  right: 5px; }
 
 .input-range__label--value {
   position: absolute;
